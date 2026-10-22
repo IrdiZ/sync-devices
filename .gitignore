@@ -1,0 +1,6 @@
+# Syncthing marker and backup folders, in case this repo itself lives in a synced folder.
+.stfolder/
+.stversions/
+.stignore
+# Test output
+tests/out/
